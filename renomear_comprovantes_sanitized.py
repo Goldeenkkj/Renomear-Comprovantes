@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-renomear_comprovantes_sanitized.py
+renomear_comprovantes_v3.py
 
 Script para extração automática de dados e renomeação de comprovantes de pagamento
 em PDF de múltiplos bancos brasileiros.
